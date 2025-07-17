@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anshul Borkar</h1>
 <h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Anshul Borkar Banner" width="80%" />
-</p>
+
 
 ---
 
